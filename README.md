@@ -1,4 +1,4 @@
-  <p align="center"><img alt="GitHub License" src="https://img.shields.io/github/license/alanmugiwara/mercadometro">
+<p align="center">
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/alanmugiwara/mercadometro">
 <img alt="GitHub issues" src="https://img.shields.io/github/issues/alanmugiwara/mercadometro">
 <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/alanmugiwara/mercadometro/total">
