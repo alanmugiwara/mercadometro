@@ -10,8 +10,8 @@
 [![maintainability](https://api.codeclimate.com/v1/badges/6982b78246699cd2458f/maintainability)](https://codeclimate.com/github/alanmugiwara/mercadometro/maintainability) 
 [![test Coverage](https://api.codeclimate.com/v1/badges/6982b78246699cd2458f/test_coverage)](https://codeclimate.com/github/alanmugiwara/mercadometro/test_coverage)
 
-[![last release](https://img.shields.io/github/v/release/alanmugiwara/romkeepilson2)](https://github.com/alanmugiwara)
-[![downloads counter](https://img.shields.io/github/downloads/alanmugiwara/mercadometro/total)](https://github.com/alanmugiwara)
+[![last release](https://img.shields.io/github/v/release/alanmugiwara/mercadometro?color=8A2BE2)](https://github.com/alanmugiwara)
+[![downloads counter](https://img.shields.io/github/downloads/alanmugiwara/mercadometro/total?color=8A2BE2)](https://github.com/alanmugiwara)
 
 # Login System C
 
